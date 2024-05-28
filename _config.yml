@@ -9,7 +9,7 @@ watermark: assets/img/logos/codeml-watermark.svg
 url: https://codeml-workshop.github.io  # the base hostname & protocol for your site
 baseurl: /codeml2024 # the subpath of your site, e.g. /my-github-repo
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Grounding Uncertainty Quantification in its Impact on Downstream Tasks.
+  Championing Open-source Development in Machine Learning.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted on <a href="https://github.com/codeml-workshop/codeml.github.io" target="_blank" rel="noopener">GitHub</a>. Content adapted from the <a href="https://dl-de.github.io/" target="_blank" rel="noopener">DLDE Workshop</a>.
 last_updated: false # set to true if you want to display last updated in the footer
