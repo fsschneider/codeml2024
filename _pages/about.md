@@ -62,7 +62,9 @@ Accepted submissions will be presented during joint poster sessions and will be 
 
 Submissions must be anonymous, in <span style="color:#3a92d6;font-weight:400;"><a href="https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles">NeurIPS format</a></span> and not longer than **four pages**, excluding references, acknowledgments, and supplementary material. Long appendices are permitted but strongly discouraged, and reviewers are not required to read them. The review process is double-blind.
 
-We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wider NeurIPS community while distilling their work into an extended abstract. 
+Please note that we do not accept submissions that have previously been published elsewhere or will be presented at the main NeurIPS conference.
+
+<!-- We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wider NeurIPS community while distilling their work into an extended abstract.  -->
 
 Authors may be asked to review other workshop submissions. 
 
