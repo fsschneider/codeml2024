@@ -115,7 +115,7 @@ Coming Soon!
     <p><a href="https://webpaige.dev/"><b>Paige Bailey</b></a>
     is a distinguished ML engineer and product manager with extensive experience leading teams at tech giants such as Microsoft and Google.
     She is passionate about forging a path toward efficient human-computer collaboration and improving the accessibility of ML tools.
-    She has contributed significantly to the development of open-source tools and frameworks, including TensorFlow.
+    She has contributed significantly to the development of open-source tools, including TensorFlow.
     Paige is also an advocate for diversity in tech, actively promoting initiatives to support underrepresented groups in STEM.</p>
   </div>
 </div>
@@ -124,9 +124,9 @@ Coming Soon!
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/sara_hooker.jpeg" | prepend:site.baseurl }}">
     <p><a href="https://www.sarahooker.me/"><b>Sara Hooker</b></a>
-    is a renowned ML researcher and a leader in AI fairness and interpretability, currently employed as the VP of research at Cohere.
+    is a renowned ML researcher and leader in AI fairness and interpretability, and currently the VP of research at Cohere.
     She previously was a research scientist at Google Brain, focusing on training models that are not only accurate, but also interpretable, fair, and robust.
-    Sara is also the founder and a current advisor of Delta Analytics, a nonprofit organization dedicated to bringing data science expertise and technical capacity to underserved communities.
+    Sara is the founder and a current advisor of Delta Analytics, a nonprofit organization dedicated to bringing data science expertise to underserved communities.
     She uses her expertise and outreach to advocate for trustworthy, accessible and equitable ML practices and to promote open research and collaboration.</p>
   </div>
 </div>
@@ -157,7 +157,7 @@ Coming Soon!
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/stella_biderman.png" | prepend:site.baseurl }}">
     <p><a href="https://www.stellabiderman.com/"><b>Stella Biderman</b></a>
-    is a researcher at Booz Allen Hamilton and EleutherAI who
+    is a researcher at Booz Allen Hamilton \& executive director at EleutherAI who
     specializes in natural language processing, ML interpretability, and AI
     ethics.
     She has contributed to the release of several open-source generative models
@@ -168,17 +168,15 @@ Coming Soon!
   </div>
 </div>
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/matt_johnson.jpg" | prepend:site.baseurl }}">
     <p><a href="https://github.com/mattjj"><b>Matt Johnson</b></a>
     is a senior research scientist at Google, where he works on the development of open-source tools and frameworks for machine learning.
     He has made numerous contributions to numerical libraries used in machine learning.
-    Matt was a founder and lead contributor of Autograd,
-    a precursor to the widely popular JAX library,
-    and now is a key contributor to JAX.</p>
+    Matt was a founder and lead contributor of Autograd, a precursor to the widely popular JAX library, and now is a key contributor to JAX.</p>
   </div>
-</div> -->
+</div>
 
 ## Organizers
 
