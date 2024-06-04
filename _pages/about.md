@@ -70,46 +70,29 @@ Authors may be asked to review other workshop submissions.
 
 ## Schedule
 
-Coming Soon!
-
-<!-- 
-<div>
-<p><b>(EST) Morning </b></p>
-<ul>
-    <li>06:45 : Introduction and opening remarks</li>
-    <li>07:00 : Invited Talk 1 - Weinan E - Machine Learning and PDEs</li>
-    <li>07:45 : Spotlight Talk 1 - NeurInt-Learning Interpolation by Neural ODEs </li>
-    <li>08:00 : Spotlight Talk 2 - Neural ODE Processes: A Short Summary  </li>
-    <li>08:15 : Invited Talk 2 - Neha Yadav - Deep learning methods for solving differential equations </li>
-    <li>09:00 : Coffee Break</li>
-    <li>09:15 : Spotlight Talk 3 - GRAND: Graph Neural Diffusion </li>
-    <li>09:30 : Spotlight Talk 4 - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
-    <li>09:45 : Poster Session 1 - <a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">GatherTown room</a></li>
-    <li>10:30 : Invited Talk 3 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
-    <li>11:15 : Lunch Break                </li>
-</ul>
-<p><b>(EST) Afternoon </b></p>
-<ul>
-    <li>13:45 : Spotlight Talk 5 - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
-    <li>14:00 : Spotlight Talk 6 - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
-    <li>14:15 : Coffee Break</li>
-    <li>14:30 : Poster Session 2 - <a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">GatherTown room</a></li>
-    <li>15:15 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
-    <li>16:00 : Spotlight Talk 7 - HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks  </li>
-    <li>16:15 : Spotlight Talk 8 - Learning Implicit PDE Integration with Linear Implicit Layers </li>
-</ul>
-<p><b>(EST) Night </b></p>
-<ul>
-    <li>23:00 : Panel discussion - Solving Differential Equations with Deep Learning: State of the Art and Future Directions     </li>
-    <li>24:00 : Final Remarks</li>
-</ul>
-</div> 
--->
+<table>
+<tr><th>Time</th><th>Session</th></tr>
+<tr><td>09:00 - 09:15</td><td>Opening remarks</td></tr>
+<tr><td>09:15 - 09:45</td><td>Invited talk: <a href="#sara-hooker">Sara Hooker</a></td></tr>
+<tr><td>09:45 - 10:15</td><td>Invited talk: <a href="#max-balandat">Max Balandat</a></td></tr>
+<tr><td>10:15 - 11:00</td><td><em>Coffee and breakout sessions</em></td></tr>
+<tr><td>11:00 - 11:30</td><td>Invited talk: <a href="#tri-dao">Tri Dao</a></td></tr>
+<tr><td>11:30 - 12:00</td><td>Contributed talks/demos</td></tr>
+<tr><td>12:00 - 13:15</td><td><em>Lunch and discussion</em></td></tr>
+<tr><td>13:15 - 13:45</td><td>Invited talk: <a href="#stella-biderman">Stella Biderman</a></td></tr>
+<tr><td>13:45 - 14:15</td><td>Lightning talks/demos</td></tr>
+<tr><td>14:15 - 15:00</td><td><em>Coffee and breakout sessions</em></td></tr>
+<tr><td>15:00 - 15:30</td><td>Invited talk: <a href="#paige-bailey">Paige Bailey</a></td></tr>
+<tr><td>15:30 - 16:30</td><td><em>Poster session</em></td></tr>
+<tr><td>16:30 - 17:00</td><td>Invited talk: <a href="#matt-johnson">Matt Johnson</a></td></tr>
+<tr><td>17:00 - 17:55</td><td>Panel discussion</td></tr>
+<tr><td>17:55 - 18:00</td><td>Closing remarks</td></tr>
+</table>
 
 
 ## Invited Speakers
 
-<div class="row">
+<div class="row" id="paige-bailey">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/paige_bailey.jpg" | prepend:site.baseurl }}">
     <p><a href="https://webpaige.dev/"><b>Paige Bailey</b></a>
@@ -120,7 +103,7 @@ Coming Soon!
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="sara-hooker">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/sara_hooker.jpeg" | prepend:site.baseurl }}">
     <p><a href="https://www.sarahooker.me/"><b>Sara Hooker</b></a>
@@ -131,7 +114,7 @@ Coming Soon!
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="tri-dao">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/tri_dao.jpeg" | prepend:site.baseurl }}">
     <p><a href="https://tridao.me/"><b>Tri Dao</b></a>
@@ -143,7 +126,7 @@ Coming Soon!
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="max-balandat">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/max_balandat.jpeg" | prepend:site.baseurl }}">
     <p><a href="https://www.linkedin.com/in/maximilian-balandat-b5843946/"><b>Max Balandat</b></a>
@@ -153,7 +136,7 @@ Coming Soon!
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="stella-biderman">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/stella_biderman.png" | prepend:site.baseurl }}">
     <p><a href="https://www.stellabiderman.com/"><b>Stella Biderman</b></a>
@@ -168,7 +151,7 @@ Coming Soon!
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="matt-johnson">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/matt_johnson.jpg" | prepend:site.baseurl }}">
     <p><a href="https://github.com/mattjj"><b>Matt Johnson</b></a>
