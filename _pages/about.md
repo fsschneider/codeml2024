@@ -157,7 +157,7 @@ Coming Soon!
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/stella_biderman.png" | prepend:site.baseurl }}">
     <p><a href="https://www.stellabiderman.com/"><b>Stella Biderman</b></a>
-    is a researcher at Booz Allen Hamilton \& executive director at EleutherAI who
+    is a researcher at Booz Allen Hamilton & executive director at EleutherAI who
     specializes in natural language processing, ML interpretability, and AI
     ethics.
     She has contributed to the release of several open-source generative models
